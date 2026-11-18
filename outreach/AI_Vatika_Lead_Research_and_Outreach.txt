@@ -1,0 +1,229 @@
+1. SIAN DIBBEN, MCIPD — LONDON CIV
+
+Post: https://lnkd.in/p/dQyA7bmM
+
+What they need:
+AI Copilot Developer contractor working with the Data & AI team to deliver
+internal assistants and process automation using Copilot Studio, Power Platform
+and Microsoft Fabric. The supplementary listing specifies Dataverse, Azure,
+Power Apps/Automate, integrations, Power BI and responsible AI. It describes
+an initial six-month engagement, possible extension to twelve months, inside
+IR35, and three days per week in London. Treat these as listing terms to confirm.
+
+DM FROM AIVATIKA LINKEDIN (no verified email available)(need to connect)
+Hi Sian, your London CIV post caught our attention—the focus on helping colleagues
+with everyday workflows aligns with our work at AIVatika. Alongside the
+London-hybrid Copilot hire, would the team consider a Bengaluru-based delivery
+partner for a scoped automation project? We'd be happy to share our company profile if relevant.
+
+======================================================================
+
+2. MICHAEL YOUNG — MBN SOLUTIONS - Sent 
+
+Post: https://lnkd.in/p/d9uqk3X4
+
+What they need:
+Post is approximately 10 months old; current availability is unknown.
+A senior AI contractor for a three-month strategic engagement. AI solutions
+engineers were already hired. Most of the work concerns programme direction,
+end-to-end solution design, stakeholder guidance, and advice spanning AI,
+cybersecurity and AI ethics. Prior hands-on building experience is valuable,
+but extra development capacity was not the principal need.
+
+EMAIL
+From: AIVatika <contact@aivatika.com>
+To: michael@mbnsolutions.com
+Subject: Future AI strategy engagements — founder-led support from AIVatika
+
+Hi Michael,
+
+We came across your earlier post about a senior AI contractor to shape strategy
+and guide a complex programme. We realise the three-month assignment may have
+finished; We're reaching out about similar future needs.
+
+Your distinction between having AI engineers and needing someone to shape
+the programme stood out. At AIVatika, our founders work directly with clients
+to turn operational problems into prioritised use cases, solution designs and
+a delivery plan with measurable outcomes, then stay involved in implementation.
+
+For a suitable engagement, we could explore a focused discovery and architecture
+phase covering priorities, integration dependencies and success measures.
+
+Do you work with India-based specialist partners on this kind of engagement?
+If so, We'd welcome a conversation about where our experience could fit.
+
+We've attached our company profile for reference.
+
+Best regards,
+AIVatika Team
+AIVatika | contact@aivatika.com | https://www.aivatika.com
+Attachment: Aivatika_Company_Profile.pdf
+
+======================================================================
+
+3. DATAVALE AI — INDUSTRIAL FOOTAGE COLLECTION - hold 
+
+Post: https://lnkd.in/p/d_FhM8Yv search his profile 
+
+What they need:
+Contractors with access to industrial sites or machinery to record manufacturing
+activities such as molding and metal-sheet cutting. Footage must be clear,
+stable, consistent and follow onboarding guidelines. Advertised compensation
+was USD 10 per 60 usable minutes, not per hour of engineering work or necessarily
+per hour spent filming. The requested route is an application form.
+
+EMAIL
+From: AIVatika <contact@aivatika.com>
+To: info@datavaleai.com
+Subject: Industrial footage programme — workflow support enquiry
+
+Hi DataVale team,
+
+We found your post seeking industrial footage of manufacturing activities,
+including molding and metal-sheet cutting. Is that collection programme still
+running?
+
+We are AIVatika, an AI and software engineering firm in Bengaluru. Our work
+includes computer vision and operational workflow automation. We have not
+established industrial-site access for your collection brief, so we wanted to
+ask about a different potential fit: software support around footage review,
+submission tracking and quality-control workflows.
+
+If these processes are creating manual work for your team, we'd be interested
+in understanding the bottleneck and assessing a small, scoped solution. Do you
+have a technical or operations contact who handles delivery partnerships?
+
+We've attached our company profile for context.
+
+Best regards,
+AIVatika Team
+AIVatika | contact@aivatika.com | https://www.aivatika.com
+Attachment: Aivatika_Company_Profile.pdf
+
+======================================================================
+
+4. VALENTINA MACCHIAVELLI — SENIOR AI ENGINEER - Sent 
+
+Post: https://lnkd.in/p/dYnSXqeG
+
+What they need:
+The advertised position is paused.
+Argentina-based Senior AI Engineer, remote contractor, C1+ English, over ten
+years in software/data science with substantial recent AI/ML work. Requirements
+include Python, cloud model deployment, production multi-tenant AI/LLM services,
+microservices/distributed systems, Docker, Terraform, DevOps and AI/LLM security.
+Work includes architecture, internal tools, mentoring and legacy modernisation.
+Candidate applications request a CV with subject "Senior AI Engineer".
+
+EMAIL
+From: AIVatika <contact@aivatika.com>
+To: valentinamacchiavellic@gmail.com
+Subject: Future AI engineering partnerships — AIVatika, India
+
+Hi Valentina,
+
+We read your Senior AI Engineer post, particularly the focus on production AI
+services, architecture and modernising existing products. We noticed that the
+position is paused and limited to Argentina-based candidates.
+
+We're reaching out from AIVatika in Bengaluru to ask about future project-based
+partnerships. Our founders lead engagements in AI agents, software platforms
+and workflow integration, with ownership from solution design through deployment.
+
+Do any of your clients consider India-based engineering partners for clearly
+scoped AI or software delivery? If that model is relevant, we'd be happy to
+review a brief and discuss where our capabilities match.
+
+We've attached our company profile for future reference.
+
+Best regards,
+AIVatika Team
+AIVatika | contact@aivatika.com | https://www.aivatika.com
+Attachment: Aivatika_Company_Profile.pdf
+
+======================================================================
+
+5. HOLLIE BEATTIE — ADEPTA PARTNERS
+
+Post: https://lnkd.in/p/d83frVFB
+
+What they need:
+Customer-facing AI engineer contractors able to deliver agentic AI in production:
+multi-agent systems, RAG, model routing and governed deployments. Experience with
+LangChain, LlamaIndex, CrewAI, AutoGen or comparable tools; confident communication
+with clients and stakeholders. Original post gives no rate, location, duration
+or explicit acceptance of companies rather than individual contractors.
+
+EMAIL
+From: AIVatika <contact@aivatika.com>
+To: Hollie.beattie@Adeptapartners.com
+Subject: Production agentic AI — delivery partner enquiry
+
+Hi Hollie,
+
+Your post about contractors who can ship agentic AI caught our attention,
+especially the emphasis on governed deployments and confident client-facing
+delivery alongside the technical work.
+
+We are AIVatika, a Bengaluru-based AI and software engineering firm. Our
+founders work directly on AI agents and multi-step business workflows, including
+tool integrations, confidence checks and human handoffs.
+
+For a suitable brief, we'd be interested in owning a defined workflow from
+discovery through deployment, with agreed evaluation criteria and clear handling
+of exceptions. We'd first review the required RAG, model-routing and framework
+experience with your team to establish the technical fit.
+
+Are you still covering similar requirements, and do your clients consider
+India-based delivery partners as well as individual contractors?
+
+We've attached our company profile for context.
+
+Best regards,
+AIVatika Team
+AIVatika | contact@aivatika.com | https://www.aivatika.com
+Attachment: Aivatika_Company_Profile.pdf
+
+======================================================================
+
+6. GRAHAM ARCHER — SIMON JAMES IT
+
+Post: https://lnkd.in/p/dDrng2hC
+
+What they need:
+London AI contractors for insurance work, with delivered production AI,
+understanding of submissions/claims/MGAs, and clear executive communication.
+The post highlights submission intake and extraction from emails, PDFs and
+spreadsheets as practical opportunities. It asks what task a reader would first
+give AI in an insurance business. No exact technical stack or day rate is stated.
+
+EMAIL
+From: AIVatika <contact@aivatika.com>
+To: g.archer@sjit.co.uk
+Subject: Insurance submission intake — AI delivery partner enquiry
+
+Hi Team,
+
+We read your post about AI contractors for the London insurance market. To answer
+your closing question, we'd start with submission intake: extract key information
+from incoming documents, flag missing fields and send uncertain items to a human
+review queue before they reach the underwriter.
+
+We are AIVatika, a Bengaluru-based engineering firm whose services include
+document processing, back-office automation and API integration. That workflow
+is a close match to the type of operational problem we focus on.
+
+For a suitable project, we'd propose a bounded pilot with agreed checks for
+extraction accuracy, review effort and processing time, shaped with the client's
+insurance specialists.
+
+Your post specifies London contractors. Are clients also open to an India-based
+delivery partner for a scoped implementation? If so, we'd welcome a discussion
+of the domain and delivery requirements.
+
+We've attached our company profile for context.
+
+Best regards,
+AIVatika Team
+AIVatika | contact@aivatika.com | https://www.aivatika.com
+Attachment: Aivatika_Company_Profile.pdf
